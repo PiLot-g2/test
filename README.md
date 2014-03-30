@@ -1,6 +1,5 @@
 test
 ====
 
-a
 
 another TEST!
